@@ -6,6 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://nashmetal.art" # the base hostname & protocol for your site
 
 twitter_username:
+facebook_username: nashmetalwerks
 github_username:
 
 # Build settings
